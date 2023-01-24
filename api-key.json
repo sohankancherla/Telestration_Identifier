@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "capstone-project-365819",
+  "private_key_id": "b5ce22edc93f3045127c6778d17007385e61c791",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC67UIro7T/cPXQ\njDcLPNVtpowzpTT+JKa/uBkaPRZ17AXgFI+ujmVqhGvf3jxzUq9lLxgmYnc6Oqbg\ne+qFrKZOQtsgSCNhariPk8+cG1rtrGFpDsORgkv6A97bUIP59s9cxLskesg/e9HD\nbC2WHmm3AUyChS6w8Yqmnguv3ZEUd9v41hDcGYTg+3odF3THiV5sWwCaGtjCcV3F\nP7jW85uLC8HKyWhUQdzL/O6Dty3FeeKdprEkZpCFRYxPyh1SWoZHIHAMbWWyrnSr\nnU2RPETZBIS/w+enrHAbMZwCMqv0Rvr98yA8JQr3N+D5cSFFAYFVVrZKcYJYge8Z\nJMykfBn3AgMBAAECggEAHZyFLXWUWsd8YUo8/q48ic9m3q2OogM7WRv4T17wURjl\nFgobzW/9ooHnYYI1Ovg/vxHWoQoFz3cdcBVL4bDScuEGERdBvOZo5fG+jdZgMU4W\nlkvCRlQzkJ+5V4O/Nxir4QsXMaBeWtQqDBZLIxXz8uDP9nh+R4XT9ttgMulbWLhI\nv81hgigLzJlrXMEKXchg1y7rbuy7mc004tq449xoWXbM2Gq+7/77CXxwJmYjxl/x\nJFkYvjqhWMhWMR9verq3s+8BpQReZOLov993chlCLya82Y/j/bX3IPcAx5rhPLge\n0CnxQ7daAbcVVNEaMnb/Jondb3g28iT/KWQCFZnGGQKBgQDbliOawfybxYdGCGbX\nWe90T8RZLK0oLiucWl4SDiTdZvKowbmxb5emMgLDzU0InMLeQGOlZlBCJAj521aF\nF10WPf9yP+//RkZx1HgIs4ckmEB6YMWvlK2o2Mcj9PHMZKz5tc3I6lyOd4CLUg8I\nAG5lpe5+D1NBJY8xbXtv870g3wKBgQDZ7Kdj5zRGivMw+145VekmwwGQ7Bc8kHzw\nzjHgOWcxTJZv9Ij650wSEh8+5kccAqlcJkSE3oIGV6CrbC36KVq1vcvV6cRvYWnZ\nUilK9Y0jsfANPZESOJFMe4rMYpi03MUGZlA0D+rkRscNnugMFhWlrVoTFkhwbXOq\nCXdkb0Gx6QKBgH63HmbBCP/vNgfQ81/Uk10gZuM659WnBx2b/GsY5GcrcF64JGtj\nRTTv6S6Ku6h7pexRZe9donT4jIF69GurNtmN/2ozwVAjgqVPgdEroJIaliLI02tm\nNeyY5Bo40IwtkLAtHMqTi8Pe7Dv5p5jrfsmDvqPaPiX7Aa35SuEo23wrAoGBANZ5\nDUjKO+2NRMiZK2N8RKkMVJc/c6L8hKouFHIbrI6dVJU8ci+UwY4rXar20Vck229A\njkDCB++cABmVry470vV4pIqTter0UUs7jD4kqlJOBfXR+NuY5o8CK1j5VFbzy8h/\nm0GRxNgDPFYQZUm31ngmwrZ0QLi9T48yH9mtkVc5AoGAKmr5hehl+8IHwB50AyZp\nVYe6Po2JBkLMNn4pbtwOG4aWHwLtVt+smuWBXGxDVq8OrRBURrwc1AaCxSntmMZV\n03bahvOi3z5PkepUj/rs6DNJ4sSIFw3vh/xOgffeuBU8Z96egocmgl4CFFZL2YzK\n9vlFMMb4yPxRYYxFNECDyrE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@capstone-project-365819.iam.gserviceaccount.com",
+  "client_id": "106907124287692983140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40capstone-project-365819.iam.gserviceaccount.com"
+}

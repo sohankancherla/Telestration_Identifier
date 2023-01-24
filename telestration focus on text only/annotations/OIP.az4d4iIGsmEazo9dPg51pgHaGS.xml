@@ -1,0 +1,50 @@
+<annotation>
+	<folder>telestration focus on text only</folder>
+	<filename>OIP.az4d4iIGsmEazo9dPg51pgHaGS.jpeg</filename>
+	<path>C:\Users\Luke\Desktop\telestration focus on text only\OIP.az4d4iIGsmEazo9dPg51pgHaGS.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>telestration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>104</ymin>
+			<xmax>174</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>telestration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>241</ymin>
+			<xmax>168</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>telestration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>222</ymin>
+			<xmax>472</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
