@@ -9,5 +9,6 @@ A program that scan medical images and identifies telestrations. Telestrations a
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/30853467/214194290-d17309ff-ee2f-4cdf-b5b0-f7f7fd9a064d.png">
 
 # Results
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/30853467/214194601-9107639c-9a1c-4f33-a1ec-c03358dbec90.png">
 
 
