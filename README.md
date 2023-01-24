@@ -3,7 +3,7 @@ A program that scan medical images and identifies telestrations. Telestrations a
 
 # Results 
 
-Google Vision API
+# Google Vision API
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/30853467/214194176-68b50290-e105-43f3-b668-549fe21b3166.png">
-EAST OCR
+# EAST OCR
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/30853467/214194290-d17309ff-ee2f-4cdf-b5b0-f7f7fd9a064d.png">
